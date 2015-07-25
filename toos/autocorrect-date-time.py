@@ -53,3 +53,4 @@ finally:
                 s.sendmail(msgFROM, msg['To'].split(","), msg.as_string())
                 s.quit()
             ser.close()
+
