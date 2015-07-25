@@ -1,0 +1,4 @@
+[settings]
+port = /dev/ttyUSB0
+from = from@example.com
+to = to1@example.com, to2@example.com
